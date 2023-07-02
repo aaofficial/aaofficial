@@ -9,7 +9,7 @@
 - 👀 I’m interested in Video editing & Dev  
   
 
-- 🌱 I’m currently learning Golang  
+- 🌱 I’m currently learning React  
   
 
 <br/>  
