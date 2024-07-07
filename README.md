@@ -6,7 +6,7 @@
 ### <div align="center">I'm AA👨‍💻 working since 2017🚀</div>  
   
 
-- 👀 I’m interested in Video editing & Dev  
+- 👀 I’m interested in Backend-Dev
   
 
 - 🌱 I’m currently learning React  
